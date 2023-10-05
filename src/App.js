@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import LeftSidebar from './LeftSidebar';
-import RightSidebar from './RightSidebar';
-import Header from './Header';
+import LeftSidebar from './Components/LeftSidebar';
+import RightSidebar from './Components/RightSidebar';
+import Header from './Components/Header';
 
 function App() {
   return (
